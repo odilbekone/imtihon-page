@@ -14,7 +14,8 @@
         "../scss/all-blocks/_hero.scss",
         "../scss/all-blocks/_about.scss",
         "../scss/all-blocks/_implement.scss",
-        "../scss/all-blocks/_simple.scss"
+        "../scss/all-blocks/_simple.scss",
+        "../scss/all-blocks/_ready.scss"
     ],
     "names": [],
     "file": "main.min.css"
